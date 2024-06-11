@@ -18,3 +18,10 @@ print('Hello Ansar') # запускаем его, смотрим статус и
 # Снова прописываем git add task-1.py
 
 # Прописываем ему название сохранения (коммита) с помощью команды git commit -m 'first commit' (название может быть любым)
+
+# Заливаем наш файл на Github c помощью команд git remote add origin https://github.com/AnsarAshirbekov/lesson-15.git
+# и git push -u origin master
+
+# Напишем еще какой-нибудь код
+
+print('Git and GitHub')
